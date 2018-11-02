@@ -1,0 +1,303 @@
+# depslib dependency file v1.0
+1466400028 source:c:\users\12345\desktop\期末c++~\期末c++ xct\add.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466406696 c:\users\12345\desktop\期末c++~\期末c++ xct\basic.h
+	<iostream>
+	<cstring>
+	<fstream>
+
+1466404010 source:c:\users\12345\desktop\期末c++~\期末c++ xct\add_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466152962 source:c:\users\12345\desktop\期末c++~\期末c++ xct\basic(weibo).cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Basic.h"
+	<vector>
+
+1466229164 source:c:\users\12345\desktop\期末c++~\期末c++ xct\basic(weixin).cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Basic.h"
+	<vector>
+
+1466235914 source:c:\users\12345\desktop\期末c++~\期末c++ xct\basic.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Basic.h"
+
+1466421412 source:c:\users\12345\desktop\期末c++~\期末c++ xct\changename.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466422959 source:c:\users\12345\desktop\期末c++~\期末c++ xct\check.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466422959 source:c:\users\12345\desktop\期末c++~\期末c++ xct\check_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466400040 source:c:\users\12345\desktop\期末c++~\期末c++ xct\delete.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466404240 source:c:\users\12345\desktop\期末c++~\期末c++ xct\delete_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466404310 source:c:\users\12345\desktop\期末c++~\期末c++ xct\groupa.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466408774 source:c:\users\12345\desktop\期末c++~\期末c++ xct\groupt.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466476665 source:c:\users\12345\desktop\期末c++~\期末c++ xct\main.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+
+1466472315 source:c:\users\12345\desktop\期末c++~\期末c++ xct\qqdenglu.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466396482 source:c:\users\12345\desktop\期末c++~\期末c++ xct\seek.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<vector>
+
+1466406994 source:c:\users\12345\desktop\期末c++~\期末c++ xct\seek_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466409298 source:c:\users\12345\desktop\期末c++~\期末c++ xct\weibodenglu.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466477002 source:c:\users\12345\desktop\期末c++~\期末c++ xct\weixindenglu.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466400028 source:h:\c++\期末c++~\期末c++ xct\add.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466406696 h:\c++\期末c++~\期末c++ xct\basic.h
+	<iostream>
+	<cstring>
+	<fstream>
+
+1466404010 source:h:\c++\期末c++~\期末c++ xct\add_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466152962 source:h:\c++\期末c++~\期末c++ xct\basic(weibo).cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Basic.h"
+	<vector>
+
+1466229164 source:h:\c++\期末c++~\期末c++ xct\basic(weixin).cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Basic.h"
+	<vector>
+
+1466235914 source:h:\c++\期末c++~\期末c++ xct\basic.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Basic.h"
+
+1466421412 source:h:\c++\期末c++~\期末c++ xct\changename.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466422959 source:h:\c++\期末c++~\期末c++ xct\check.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466422959 source:h:\c++\期末c++~\期末c++ xct\check_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466400040 source:h:\c++\期末c++~\期末c++ xct\delete.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466404240 source:h:\c++\期末c++~\期末c++ xct\delete_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466404310 source:h:\c++\期末c++~\期末c++ xct\groupa.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466408774 source:h:\c++\期末c++~\期末c++ xct\groupt.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466476665 source:h:\c++\期末c++~\期末c++ xct\main.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+
+1466472315 source:h:\c++\期末c++~\期末c++ xct\qqdenglu.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466396482 source:h:\c++\期末c++~\期末c++ xct\seek.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<vector>
+
+1466406994 source:h:\c++\期末c++~\期末c++ xct\seek_1.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+
+1466409298 source:h:\c++\期末c++~\期末c++ xct\weibodenglu.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+
+1466477002 source:h:\c++\期末c++~\期末c++ xct\weixindenglu.cpp
+	<iostream>
+	<cstring>
+	"Basic.h"
+	<fstream>
+	<sstream>
+	<stdlib.h>
+

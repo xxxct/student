@@ -1,0 +1,1 @@
+IDandPassword 2234 www nickname: 小学曾 1980.12.10 2年 吉尔吉斯斯坦 qqfriend???: friend: 3234 qqgroup: 1001 1003 1004 IDandPassword 3234 eee nickname: 陈八金 1999.12.10 3年 朝鲜 qqfriend???: friend: 4234 2234 qqgroup: 1004 1002 IDandPassword 4234 rrr nickname: gay诚 1980.12.18 4年 泰国 qqfriend???: friend: 2234 3234 qqgroup: 1001 1002 1003 1004             

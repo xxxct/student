@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Basic(weibo).cpp" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1571" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="Add.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5184" topLine="154" />
+		</Cursor>
+	</File>
+	<File name="Basic.cpp" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1539" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="qqdenglu.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10862" topLine="184" />
+		</Cursor>
+	</File>
+	<File name="Check.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="138" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Check_1.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="156" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3328" topLine="65" />
+		</Cursor>
+	</File>
+	<File name="Delete_1.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10750" topLine="267" />
+		</Cursor>
+	</File>
+	<File name="groupT.cpp" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12691" topLine="281" />
+		</Cursor>
+	</File>
+	<File name="seek_1.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9986" topLine="256" />
+		</Cursor>
+	</File>
+	<File name="Add_1.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7018" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="Delete.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6645" topLine="171" />
+		</Cursor>
+	</File>
+	<File name="Basic.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1585" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="weibodenglu.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="138" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="weixindenglu.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="138" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="groupA.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="156" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Basic(weixin).cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="117" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Changename.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2693" topLine="75" />
+		</Cursor>
+	</File>
+	<File name="seek.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5832" topLine="150" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
